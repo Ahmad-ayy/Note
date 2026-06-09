@@ -1,5 +1,5 @@
 - Summary:
-    Citizen Portal Login failure after update
+    Citizen Portal Login failure after update on Mondady (date) between at 09:05 Am which lasted for 27 minutes and was resolved by rolling back to a previous stable version
 - Impact:
     Login partially unavailable for 27 minutes leading to frustration and disapointment with the user
     Around 1200 failed login attempts
