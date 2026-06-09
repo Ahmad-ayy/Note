@@ -14,7 +14,7 @@
   09:32 login service recovered
   
 - Likely root cause:
-  an error in validating user credentials or providing the right access due to a change in the code
+  an error in validating user credentials or providing the right access due to a change in the code or high traffic
 
   
 - 3 action items with owners
