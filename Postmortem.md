@@ -7,7 +7,7 @@
     internal back-office work was delayed leading to higher work pressure and delay on other dependent work
     reputation damage and trust issues
 - Timeline
-  09:05 Monitoring detected a sharp increase in login errors
+  | 09:05 Monitoring detected a sharp increase in login errors |
   09:10 Support started receiving user calls
   09:18 DevOps found errors in the authentication service
   09:25 team rolled back to the previous version
