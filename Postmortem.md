@@ -1,10 +1,10 @@
 - Summary:
     Citizen Portal Login failure after update
 - Impact:
-    Login partially unavailable for 27 minutes
+    Login partially unavailable for 27 minutes leading to frustration and disapointment with the user
     Around 1200 failed login attempts
     Citizens could not submit online requests
-    internal back-office work was delayed
+    internal back-office work was delayed leading to higher work pressure and delay on other dependent work
     reputation damage and trust issues
 - Timeline
   09:05 Monitoring detected a sharp increase in login errors
